@@ -1,8 +1,3 @@
 h1, p {
   font-family: Lato;
 }
-
-body {
-  background-image: url('/public/img/spacecat.jpg');
-  background-color: #000;
-}
