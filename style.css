@@ -3,6 +3,6 @@ h1, p {
 }
 
 body {
-  background-color: #000;
   background-image: url('img/spacecat.jpg');
+  background-color: #000;
 }
